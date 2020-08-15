@@ -39,4 +39,56 @@ Enlisting the aid of a book meant that I was able to go through many examples an
 
 ### ***Result***
 
-As a result of perserving for many hours after class and going above and beyond what is expected of me, I completed all the python projects with relative which includes creating a calculator both functionally and with OOP as well as creating my own programming which uses an API call to retrieve data on football matches on that day. 
+As a result of perserving for many hours after class and going above and beyond what is expected of me, I completed all the python projects with relative which includes creating a calculator both functionally and with OOP as well as creating my own programming which uses an API call to retrieve data on football matches on that day.
+
+
+---
+
+###
+
+### ***Situation***
+
+### ***Task***
+
+### ***Action***
+
+### ***Result***
+
+
+---
+
+###
+
+### ***Situation***
+
+### ***Task***
+
+### ***Action***
+
+### ***Result***
+
+
+---
+
+###
+
+### ***Situation***
+
+### ***Task***
+
+### ***Action***
+
+### ***Result***
+
+
+---
+
+###
+
+### ***Situation***
+
+### ***Task***
+
+### ***Action***
+
+### ***Result***
