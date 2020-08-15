@@ -1,0 +1,12 @@
+### Make notes on
+- MVC
+- API
+- TDD
+- Python OOP
+- Development environment
+- Vagrant
+- Virtual Box 
+- CI/CD
+- Jenkins
+- AWS
+- VPC
