@@ -65,16 +65,26 @@ this culminated in a program running much safe and ensured we protected the data
 
 ---
 
-###
+### Python TDD/Unit Testing
 
 ### ***Situation***
 
+In order to fully experience the development process it was essential that as developers on the airport project we accounted for testing within the development environment. Eventhough, my exposure to testing was very limited at this stage, I still knew it was imperative to have a testing framework in place.
+
+
 ### ***Task***
+
+As a team we tasked ourselves to have unit testing in place where possible to ensure a minimum level of testing was implemented.
 
 ### ***Action***
 
+As I was responsible for the constructing the user interface for our airport application, It was important that unit testing was employed at a micro level because I wanted to be confident that functionalities that I created and added worked as expected. In order to do this I would systematically test functions and as I created them so as to be sure their functioning correctly. The main tool I used the packages of unittest and pytest in python to help me assert the behaviour or state of my functions and see if the outcome is what is expected.
+
+Alongside unit testing I was also responsible for integration testing for the airport project. Integration testing in this case refers to testing the application after multiple constitutuent modules are combined and tested as a group. this was especially important during the project as the nature of the project meant the different developers were working on different aspects of the application and therefore at some point all of these different parts needed to be placed together and tested. I ensured there was enough time before the deadline to test all the moving parts of the project which was beneficial as we came to find that one particular aspect of the project - the reassignment of planes operator was not working as we expected. with the contingency time I accounted for we managed to resolve this issue quickly and effectively and got that particular functionality working.
+
 ### ***Result***
 
+as a results of employing a testing framework the team and I managed to complete the whole project working effectively and within the deadline. 
 
 ---
 
