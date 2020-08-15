@@ -22,6 +22,7 @@ As a consequence of approaching the task iteratively, I was able to create a pro
 
 
 ---
+## Object Orientated Programming 
 
 ### Python basics/functions/methods/OOP
 
@@ -84,7 +85,7 @@ Alongside unit testing I was also responsible for integration testing for the ai
 
 ### ***Result***
 
-as a results of employing a testing framework the team and I managed to complete the whole project working effectively and within the deadline. 
+as a results of employing a testing framework the team and I managed to complete the whole project working effectively and within the deadline.
 
 ---
 
