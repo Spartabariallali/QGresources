@@ -44,16 +44,24 @@ As a result of perserving for many hours after class and going above and beyond 
 
 ---
 
-###
+### Python Airport Project
 
 ### ***Situation***
 
+As part of our python week project, my team and I were tasked with creating a fully fledge airport user interface that can undertake some typical airport staff functionalities.
+
 ### ***Task***
+
+The Task was to have a fully functioning user interface by the end of the time-boxed event and ensuring the task met the definition of done.
+
 
 ### ***Action***
 
+To implement these functionalities required the use of SQL alongside python. unfortunately the use of sql came as a challenge as the connection to the database was more often than not down and therefore a lot of the time our program errors. as means to overcome this issue, the team and myself constructed a recursive function that would constantly look for a connection to the database without timing out. to add an additional layer of protection we wrote the information into a text.file so that we two copies of the data should the program face issues with passing the data through to sql.
+
 ### ***Result***
 
+this culminated in a program running much safe and ensured we protected the data, all while improving the user's interaction with the program.
 
 ---
 
