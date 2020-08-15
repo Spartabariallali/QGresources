@@ -27,10 +27,14 @@ As a consequence of approaching the task iteratively, I was able to create a pro
 
 ### ***Situation***
 
-
+Going into week three of the spartaglobal training I was introduced to object-orientated programming in the form of python. Having very limited prior exposure to python I knew the following weeks were going to be a significant learning curve.  
 
 ### ***Task***
 
+In order to keep up with the pace of the lessons and to make sure I solidify my knowledge on topics we have had already gone through. I took it upon myself to create an action plan that enabled me to keep learning effectively. I enlisted the help of a book called automate the boring stuff which focused specifically on python and gives the reader a thorough understanding of python's basic syntax across.
+
 ### ***Action***
+
+Enlisting the aid of a book meant that I was able to go through many examples and tutorials as is the nature with learning programming it is important to embedded the knowledge via doing so that you build a solid exposure to different elements of coding. Going through the book meant I had a very good reference of everything we had learned 
 
 ### ***Result***
