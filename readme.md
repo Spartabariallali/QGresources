@@ -14,7 +14,7 @@ As a means to consolidate my knowledge and in order to showcase what I have lear
 
 ### ***Action***
 
-I approached the task by firstly pseudo coding all the relevant queries within azure data studio to ensure that I can quickly and accurately Query the northwind database while minimising the potential of retrieving the wrong information. Once I had a basic outline of the queries, I then began working on the second iteration which was transforming the information into a user-friendly report that could be consumed by individuals that could use the information elsewhere. 
+I approached the task by firstly pseudo coding all the relevant queries within azure data studio to ensure that I can quickly and accurately Query the northwind database while minimising the potential of retrieving the wrong information. Once I had a basic outline of the queries - I began working through them systematically ensuring complete accuracy in my work. Once all the information was retrieved, I began working on the second iteration which was transforming the data into a user-friendly report that could be consumed by individuals who require the information elsewhere. I did so by using the taking advantage of the azure database plugins which allowed me to create powerfully informative graphs within seconds.  
 
 ### ***Result***
 
