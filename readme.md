@@ -19,3 +19,18 @@ I approached the task by firstly pseudo coding all the relevant queries within a
 ### ***Result***
 
 As a consequence of approaching the task iteratively, I was able to create a professional report that had the most up to date and accurate information ready to be used. The entire process taught me the value of employing my creativity as well technical skills as the raw output of first iteration may not have been appropriate to pass on to a final user. However,  knowing that the first iteration contained only the most accurate information allowed me to focus on making it more visually presentable for second iteration. This meant that I could efficiently retrieve and present the data within time and score highly on the project.
+
+
+---
+
+### Python basics/functions/methods/OOP
+
+### ***Situation***
+
+
+
+### ***Task***
+
+### ***Action***
+
+### ***Result***
