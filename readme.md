@@ -35,6 +35,8 @@ In order to keep up with the pace of the lessons and to make sure I solidify my 
 
 ### ***Action***
 
-Enlisting the aid of a book meant that I was able to go through many examples and tutorials as is the nature with learning programming it is important to embedded the knowledge via doing so that you build a solid exposure to different elements of coding. Going through the book meant I had a very good reference of everything we had learned 
+Enlisting the aid of a book meant that I was able to go through many examples and tutorials as is the nature with learning programming it is important to embedded the knowledge via doing so that you build a solid exposure to different elements of coding. Going through the book meant I had a very good reference of everything we had learned and more which enabled me to grow in confidence when doing my own coding.
 
 ### ***Result***
+
+As a result of perserving for many hours after class and going above and beyond what is expected of me, I completed all the python projects with relative which includes creating a calculator both functionally and with OOP as well as creating my own programming which uses an API call to retrieve data on football matches on that day. 
