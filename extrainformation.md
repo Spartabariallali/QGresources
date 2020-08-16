@@ -28,6 +28,7 @@ Like the DELETE Method, the PUT method is idempotent. It sets the state of the t
 ### Python OOP
 
 ### Vagrant
+
 Vagrant
 vagrant is a tool used by devops engineers to help build and configure virtual enivronments.
 vagrant features can be broken down into a few key areas:
@@ -58,10 +59,12 @@ The operations team can easily and quickly test deployment tools and scripts usi
 Vagrant supports many popular deployment tools such as: Docker, Puppet and Chef.
 
 ### Continuous Integration
+
 Continuous Integration is a development practice in which the developers are required to commit changes to the source code in a shared repository several times a day or more frequently. Every commit made in the repository is then built. This allows the teams to detect the problems early. Apart from this, depending on the Continuous Integration tool, there are several other functions like deploying the build application on the test server, providing the concerned teams with the build and test results, etc.
 
 
 ### Jenkins
+
 Jenkins is an open-source automation tool written in Java with plugins built for Continuous Integration purposes. Jenkins is used to build and test your software projects continuously making it easier for developers to integrate changes to the project, and making it easier for users to obtain a fresh build. It also allows you to continuously deliver your software by integrating with a large number of testing and deployment technologies.
 
 - Advantages of Jenkins include:
