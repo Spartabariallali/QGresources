@@ -59,12 +59,12 @@ This can help minimise the presence of bugs/errors when the code is deployed to 
 a big advantage of vagrant is the vagrant configuration file known as vagrantfile can be easily created, edited and tested.
 The syntax of a vagrantfile is easy to understand and offers a simple way to build complex virtual environments
 
-#### Vagrant and Developers
+#### Vagrant and developers
 
 Vagrant gives access to developers to package up their code/application into an easily sharable fully-fledged development environment.
 This can then be used by other developers who do not have the original production environment and are using different OS such as Linux, Windows or macOS.
 
-#### Vagrant and Operations
+#### Vagrant and operations 
 
 The operations team can easily and quickly test deployment tools and scripts using vagrant.
 Vagrant supports many popular deployment tools such as: Docker, Puppet and Chef.
