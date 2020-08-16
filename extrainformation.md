@@ -5,12 +5,22 @@
 ### API
 API stands for Application Programming Interface. In short this is software that acts as an intermediary between two applications with the main purpose of allowing communication between the two applications. In other words, an API is the messenger that delivers your request to the provider that your requesting from it and then delivers the response back to you.
 
+#### Webscrapping
+Webscrapping is the process of using a program or algorithm to extract and process large amounts of data from the web.
+
 #### Type of Requests
 Requests or HTTP requests characterise what action you are going to take by referring to the API.
-- GET: retrieve information(like search results)
-- POST: Adds new data to the server, using this requests requires an action
-- PUT: Changes existing information
-- DELETE: Deletes existing information 
+- GET: For simple retrieval of information about your account, Droplets, or environment, you should use the GET method. The information you request will be returned to you as a JSON object.
+
+The attributes defined by the JSON object can be used to form additional requests. Any request using the GET method is read-only and will not affect any of the objects you are querying.
+
+- POST: To create a new object, your request should specify the POST method.
+
+The POST request includes all of the attributes necessary to create a new object. When you wish to create a new object, send a POST request to the target endpoint.
+
+- PUT: To update the information about a resource in your account, the PUT method is available.
+
+Like the DELETE Method, the PUT method is idempotent. It sets the state of the target using the provided values, regardless of their current values. Requests using the PUT method do not need to check the current attributes of the object.
 
 
 ### TDD
