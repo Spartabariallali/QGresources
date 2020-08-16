@@ -56,8 +56,21 @@ This can then be used by other developers who do not have the original productio
 Vagrant and Operations
 The operations team can easily and quickly test deployment tools and scripts using vagrant.
 Vagrant supports many popular deployment tools such as: Docker, Puppet and Chef.
-- Virtual Box
-- CI/CD
-- Jenkins
+
+### Continuous Integration
+Continuous Integration is a development practice in which the developers are required to commit changes to the source code in a shared repository several times a day or more frequently. Every commit made in the repository is then built. This allows the teams to detect the problems early. Apart from this, depending on the Continuous Integration tool, there are several other functions like deploying the build application on the test server, providing the concerned teams with the build and test results, etc.
+
+
+### Jenkins
+Jenkins is an open-source automation tool written in Java with plugins built for Continuous Integration purposes. Jenkins is used to build and test your software projects continuously making it easier for developers to integrate changes to the project, and making it easier for users to obtain a fresh build. It also allows you to continuously deliver your software by integrating with a large number of testing and deployment technologies.
+
+- Advantages of Jenkins include:
+It is an open-source tool with great community support.
+It is easy to install.
+It has 1000+ plugins to ease your work. If a plugin does not exist, you can code it and share it with the community.
+It is free of cost.
+It is built with Java and hence, it is portable to all the major platforms
+
+
 - AWS
 - VPC
