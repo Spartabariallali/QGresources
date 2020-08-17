@@ -39,7 +39,7 @@ networking
 provisioning
 plugins
 
-#### vagrantfile
+#### Vagrantfile
 
 a vagrantfile is a configuration file that uses Ruby programming language syntax.
 It is easy to understand ans can be quickly tested by making a change and then running the vagrant up to see whether the expected results have been implemented
@@ -64,7 +64,7 @@ The syntax of a vagrantfile is easy to understand and offers a simple way to bui
 Vagrant gives access to developers to package up their code/application into an easily sharable fully-fledged development environment.
 This can then be used by other developers who do not have the original production environment and are using different OS such as Linux, Windows or macOS.
 
-#### Vagrant and operations 
+#### Vagrant and operations
 
 The operations team can easily and quickly test deployment tools and scripts using vagrant.
 Vagrant supports many popular deployment tools such as: Docker, Puppet and Chef.
