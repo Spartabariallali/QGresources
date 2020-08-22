@@ -19,6 +19,14 @@ It will continue to check the  source code repository for changes made in the so
 
 Continuous delivery is the software practice of preparing changes to code to automatically be transferred for release to production. Continuous delivery expands upon continuous integration by deploying all code changes to a testing environment and/or a production environment after the build stage. When properly implemented, developers will always have a deployment-ready build artifact that has passed through a standardized test process.
 
+## Continuous Delivery Benefits
+
+- Automate the software Release Process
+- Improve Developer Productivity
+- Find and Address Bugs Quicker
+- Deliver Updates faster
+
+
 ![cicdpipeline](imagesmd/ci_cd_pipeline.jpeg)
 
 ### Jenkins
@@ -30,3 +38,18 @@ It is easy to install.
 It has 1000+ plugins to ease your work. If a plugin does not exist, you can code it and share it with the community.
 It is free of cost.
 It is built with Java and hence, it is portable to all the major platforms
+
+
+## How I have implemented CI/CD pipeline
+
+- firstly created a continuous integration pipeline
+- configured Jenkins to communicate with source code management of Github via a webhook
+- configured the integration pipeline to listen for push to the dev branch
+- further configuration - if ci pipeline test are successful merge the dev branch with the master branch.
+- Used the functionality of having jenkins emailing us as the out come of the build as well as sending us a message on teams
+- the Purpose of the CI pipeline is to test new code being added to the application through unit testing
+
+## Second iteration of CI/CD pipeline
+
+- In the second iteration of the task I implemented continuous delivery (cd) within our pipeline.
+- to do so required reconfiguring our jenkins automation server so that upon a successful ci build our code would immediately be available in for use
