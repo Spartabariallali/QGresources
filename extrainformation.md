@@ -75,18 +75,25 @@ Vagrant supports many popular deployment tools such as: Docker, Puppet and Chef.
 
 Continuous Integration is a development practice in which the developers are required to commit changes to the source code in a shared repository several times a day or more frequently. Every commit made in the repository is then built. This allows the teams to detect the problems early. Apart from this, depending on the Continuous Integration tool, there are several other functions like deploying the build application on the test server, providing the concerned teams with the build and test results, etc.
 
-- First, a developer commits the code to the source code repository. Meanwhile, the Jenkins server checks the repository at regular intervals for changes.
-- Soon after a commit occurs, the Jenkins server detects the changes that have occurred in the source code repository. Jenkins will pull those changes and will start preparing a new build.
-- If the build fails, then the concerned team will be notified.
-- If built is successful, then Jenkins deploys the built in the test server.
-- After testing, Jenkins generates a feedback and then notifies the developers about the build and test results.
-- It will continue to check the  source code repository for changes made in the source code and the whole process keeps on repeating.
+## 1.
+First, a developer commits the code to the source code repository. Meanwhile, the Jenkins server checks the repository at regular intervals for changes.
+## 2.
+ Soon after a commit occurs, the Jenkins server detects the changes that have occurred in the source code repository. Jenkins will pull those changes and will start preparing a new build.
+## 3.
+ If the build fails, then the concerned team will be notified.
+## 4.
+If built is successful, then Jenkins deploys the built in the test server.
+## 5.
+ After testing, Jenkins generates a feedback and then notifies the developers about the build and test results.
+## 6
+It will continue to check the  source code repository for changes made in the source code and the whole process keeps on repeating.
 
-### Continous Development
+### Continuous Delivery
+
+Continuous delivery is the software practice of preparing changes to code to automatically be transferred for release to production. Continuous delivery expands upon continuous integration by deploying all code changes to a testing environment and/or a production environment after the build stage. When properly implemented, developers will always have a deployment-ready build artifact that has passed through a standardized test process. 
 
 
 ### Jenkins
-
 Jenkins is an open-source automation tool written in Java with plugins built for Continuous Integration purposes. Jenkins is used to build and test your software projects continuously making it easier for developers to integrate changes to the project, and making it easier for users to obtain a fresh build. It also allows you to continuously deliver your software by integrating with a large number of testing and deployment technologies.
 
 - Advantages of Jenkins include:
@@ -99,3 +106,16 @@ It is built with Java and hence, it is portable to all the major platforms
 
 - AWS
 - VPC
+
+
+### Infrastructure as Code IaC
+configuration management
+created a virtual machine using virtualbox and vagrant on our on premise machine
+moved our nodejs webapp onto our virtual machine through synchronisation
+
+
+### Single point of failure
+
+creating replica sets - which are copies/images of essential resources within your network. In one instance goes down - there is a load balancer in place that balances the load amgongst the remaining resources.
+
+### autoscaling and replica sets
